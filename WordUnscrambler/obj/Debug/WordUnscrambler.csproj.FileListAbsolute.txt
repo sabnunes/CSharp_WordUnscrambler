@@ -1,0 +1,8 @@
+G:\My Drive\Learn\2023-02 C Sharp Basic Applications\WordUnscrambler\WordUnscrambler\bin\Debug\WordUnscrambler.exe.config
+G:\My Drive\Learn\2023-02 C Sharp Basic Applications\WordUnscrambler\WordUnscrambler\bin\Debug\WordUnscrambler.exe
+G:\My Drive\Learn\2023-02 C Sharp Basic Applications\WordUnscrambler\WordUnscrambler\bin\Debug\WordUnscrambler.pdb
+G:\My Drive\Learn\2023-02 C Sharp Basic Applications\WordUnscrambler\WordUnscrambler\obj\Debug\WordUnscrambler.csproj.AssemblyReference.cache
+G:\My Drive\Learn\2023-02 C Sharp Basic Applications\WordUnscrambler\WordUnscrambler\obj\Debug\WordUnscrambler.csproj.SuggestedBindingRedirects.cache
+G:\My Drive\Learn\2023-02 C Sharp Basic Applications\WordUnscrambler\WordUnscrambler\obj\Debug\WordUnscrambler.csproj.CoreCompileInputs.cache
+G:\My Drive\Learn\2023-02 C Sharp Basic Applications\WordUnscrambler\WordUnscrambler\obj\Debug\WordUnscrambler.exe
+G:\My Drive\Learn\2023-02 C Sharp Basic Applications\WordUnscrambler\WordUnscrambler\obj\Debug\WordUnscrambler.pdb
