@@ -3,7 +3,8 @@ namespace WordUnscrambler
 {
     class Constants
     {
-        public const string OptionsOnHowToEnterScrambledWords = "Enter scrambled word(s) manually or as a file. Type F for file and M for manual.";
+        public const string Intro = "This program will try to determine if scrambled words entered exist within a predefined list of words.\n";
+        public const string OptionsOnHowToEnterScrambledWords = "Enter scrambled word(s) manually or as a file? F - File / M - Manual)";
         public const string OptionsOnContinuingTheProgram = "Would you like to continue? Y/N";
         
         public const string EnterScrambledWordsViaFile = "Enter full path including the file name: ";
@@ -12,7 +13,7 @@ namespace WordUnscrambler
         public const string ErrorScrambledWordsCannotBeLoaded = "Scrambled words were not loaded because there was an error: ";
         public const string ErrorProgramWillBeTerminated = "The program will be terminated.";
         
-        public const string MatchFound = "MATCH FOUND FOR {0}: {1}\n";
+        public const string MatchFound = "MATCH FOUND FOR {0}: {1}";
         public const string MatchNotFound = "NO MATCHES HAVE BEEN FOUND. \n";
 
         public const string Yes = "Y";

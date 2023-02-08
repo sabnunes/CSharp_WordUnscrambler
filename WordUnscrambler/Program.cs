@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Threading;
 using WordUnscrambler.Data;
 using WordUnscrambler.Workers;
 
@@ -15,6 +16,10 @@ namespace WordUnscrambler
         {
             try
             {
+                Thread.Sleep(1000);
+                Console.WriteLine(Constants.Intro);
+                Thread.Sleep(1000);
+
                 bool continueWordUnscramble = true;
                 do
                 {
