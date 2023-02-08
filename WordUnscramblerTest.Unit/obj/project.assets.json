@@ -6793,11 +6793,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\My Drive\\Learn\\2023-02 C Sharp Basic Applications\\WordUnscrambler\\WordUnscramblerTest.Unit\\WordUnscrambler.Test.Unit.csproj",
+      "projectUniqueName": "G:\\My Drive\\Learn\\2023-02 C Sharp Basic Applications\\CSharp_WordUnscrambler\\WordUnscramblerTest.Unit\\WordUnscrambler.Test.Unit.csproj",
       "projectName": "WordUnscrambler.Test.Unit",
-      "projectPath": "G:\\My Drive\\Learn\\2023-02 C Sharp Basic Applications\\WordUnscrambler\\WordUnscramblerTest.Unit\\WordUnscrambler.Test.Unit.csproj",
+      "projectPath": "G:\\My Drive\\Learn\\2023-02 C Sharp Basic Applications\\CSharp_WordUnscrambler\\WordUnscramblerTest.Unit\\WordUnscrambler.Test.Unit.csproj",
       "packagesPath": "C:\\Users\\Sabrina Nunes\\.nuget\\packages\\",
-      "outputPath": "G:\\My Drive\\Learn\\2023-02 C Sharp Basic Applications\\WordUnscrambler\\WordUnscramblerTest.Unit\\obj\\",
+      "outputPath": "G:\\My Drive\\Learn\\2023-02 C Sharp Basic Applications\\CSharp_WordUnscrambler\\WordUnscramblerTest.Unit\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6818,8 +6818,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "G:\\My Drive\\Learn\\2023-02 C Sharp Basic Applications\\WordUnscrambler\\WordUnscrambler\\WordUnscrambler.csproj": {
-              "projectPath": "G:\\My Drive\\Learn\\2023-02 C Sharp Basic Applications\\WordUnscrambler\\WordUnscrambler\\WordUnscrambler.csproj"
+            "G:\\My Drive\\Learn\\2023-02 C Sharp Basic Applications\\CSharp_WordUnscrambler\\WordUnscrambler\\WordUnscrambler.csproj": {
+              "projectPath": "G:\\My Drive\\Learn\\2023-02 C Sharp Basic Applications\\CSharp_WordUnscrambler\\WordUnscrambler\\WordUnscrambler.csproj"
             }
           }
         }
