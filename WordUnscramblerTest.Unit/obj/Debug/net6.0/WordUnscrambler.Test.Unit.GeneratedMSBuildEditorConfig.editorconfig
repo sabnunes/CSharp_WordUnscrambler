@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WordUnscrambler.Test.Unit
-build_property.ProjectDir = G:\My Drive\Learn\2023-02 C Sharp Basic Applications\CSharp_WordUnscrambler\WordUnscramblerTest.Unit\
+build_property.ProjectDir = G:\My Drive\Learn\2023-02 C Sharp Basic Applications\SudokuSolver\WordUnscrambler\WordUnscramblerTest.Unit\

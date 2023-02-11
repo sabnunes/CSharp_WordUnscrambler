@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IfYbgHul7RX31o2Za+zXRZp0P6NW4o4VhhOoUXz6W3bRtDDqIytChIure0RQdUSqB3mxJzIuq0Ggf4aZz1YoAQ==",
+  "dgSpecHash": "OMn3qmdwW279lIaFEqaeYWCbzpaD4DHvRd9mBJemRqSnvGLyDjPJK6NgHjvw99BHlhM1pxbAIBj5LU+QKzG3lg==",
   "success": true,
-  "projectFilePath": "G:\\My Drive\\Learn\\2023-02 C Sharp Basic Applications\\CSharp_WordUnscrambler\\WordUnscramblerTest.Unit\\WordUnscrambler.Test.Unit.csproj",
+  "projectFilePath": "G:\\My Drive\\Learn\\2023-02 C Sharp Basic Applications\\SudokuSolver\\WordUnscrambler\\WordUnscramblerTest.Unit\\WordUnscrambler.Test.Unit.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sabrina Nunes\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Sabrina Nunes\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",
